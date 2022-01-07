@@ -8,7 +8,7 @@ TextMate bundles can be imported into TextMate, IntelliJ, VS Code, and other edi
    2. Download https://github.com/pagemodel/pagemodel-tmbundle/archive/refs/heads/master.zip and extract `pagemodel-tmbundle` directory
 2. Ensure the `pagemodel-tmbundle` directory is in a permanent location as IntelliJ will link to it and not make a copy.
 3. In IntelliJ open `Preferences > Editor > TextMate Bundles`
-4. Click the `+` button (immediately below or above the bundle depending on version).
+4. Click the `+` button (immediately below or above the bundle list depending on version).
 5. Add the `pagemodel-tmbundle` directory
 6. Click `OK`
 7. Older versions of IntelliJ may need to be restarted.
